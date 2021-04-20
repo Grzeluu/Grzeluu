@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Patryk Grzelewski
+- 👀 I’m interested in programing aplications espacially for Android
+- 🌱 I’m currently studying at Lodz University 
+- 💞️ I’m looking for apprenticeships.
+- 📫 patryk.grzelewski6@gmail.com
