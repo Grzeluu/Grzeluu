@@ -1,4 +1,4 @@
-Hi 👋 My name is Patryk
+Hi 👋 I'm Patryk Grzelewski
 ==================================
 
 Junior Android Developer
