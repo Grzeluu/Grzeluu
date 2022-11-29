@@ -8,7 +8,7 @@ I'm 22 years old, a graduate of the University of Lodz at the Faculty of Mathema
 
 *   🌍  I'm based in Łodź, Poland
 *   ✉️  You can contact me at [patryk.grzelewski6@gmail.com](mailto:patryk.grzelewski6@gmail.com)
-*   ⚡  I do sports, chess and drawing
+*   ⚡  I do mountain biking, internet chess and drawing
 
 ### Skills
 
