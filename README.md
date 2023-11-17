@@ -1,7 +1,7 @@
 Hi 👋 My name is Patryk Grzelewski
 ==================================
 
-Junior Android Developer
+Android Developer
 ------------------------
 
 I'm 22 years old, a graduate of the University of Lodz at the Faculty of Mathematics and Computer Science. During my studies, I gained my first experience in programming and had an opportunity to work on projects using different languages and technologies. Then I also created my first mobile application. Currently, I\`m working as a professional Junior Android Developer. I keep developing my programming skills by working on my projects, which I mostly publish on my GitHub.
